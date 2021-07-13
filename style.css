@@ -1,0 +1,106 @@
+body {
+	padding: 30px;
+}
+
+.container {
+	max-width: 990px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #00fff8; 
+	text-align: center;	
+	font-size: 40px;
+}
+
+.flex{
+
+}
+
+img {
+width: 300px;
+text-align: center;
+box-shadow: 0 0 10px 5px #00ff1a;
+display: inline-block;
+margin: 10px;
+
+}
+
+img:hover {
+box-shadow: 0 0 10px 5px #ff00a5;
+transition: 0.7s;
+border-radius: 30px;
+}
+
+.block {
+	width: 800px;
+	display: inline-block;
+}
+
+
+.block1{
+	width: 700px;
+	display: inline-block;
+}
+
+.summer {
+
+
+}
+
+.plans {
+	width: 400px;
+	display: inline-block;
+
+}
+.plans img {
+	width: 300px;
+}
+
+li {
+	font-size: 40px;
+}
+
+.border{
+	border: 5px solid #ff00a5;
+	border-radius: 10px;
+	margin: 40px 0px;
+	width: 100%;
+	background: #ff00a5;
+}
+
+.border:hover{
+	border: 5px solid #00ff1a;
+	transition: 1s;
+	background: #00ff1a;
+}
+
+.border:active{
+	border: 10px solid #ffad00;
+	transition: 1s;
+	border-radius: 10px;
+	background: #da00ff;
+}
+
+.row {
+
+}
+
+.girl {
+	opacity: 0.5;
+	width: 21%;
+}
+
+.girl:hover {
+	width: 22%;
+	opacity: 1;
+	transition: 1s;
+}
+
+
+#da00ff
+#ff00a5
+#00fff8
+#00ff1a
+#e9ff00
+#ffad00
